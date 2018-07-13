@@ -1,0 +1,10 @@
+<!--The strings.xml file is located in the res/values folder and it contains all the text that your application uses.
+ For example, the names of buttons, labels,
+default text, and similar types of strings go into this file.
+This file is responsible for their textual content.
+-->
+
+<resources>
+    <string name="app_name">Android-Tutorials</string>
+    <string name="hello_world">Hello World</string>
+</resources>

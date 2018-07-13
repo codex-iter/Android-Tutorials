@@ -1,0 +1,21 @@
+
+    <!--The activity_main.xml is a layout file available in res/layout directory,
+    that is referenced by your application when building its interface.
+    You will modify this file very frequently to change the layout of your application.
+    For your "Hello World!" application, this file will have following content related to default layout -->
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/hello_world"
+        tools:context=".MainActivity" />
+
+</RelativeLayout>
