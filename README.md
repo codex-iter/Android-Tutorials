@@ -1,10 +1,9 @@
-# Android-Tutorials
+# Android-Tutorials  ![Codex](https://img.shields.io/badge/Codex-2.0-blue.svg?longCache=true&style=flat-square)
 Android Tutorials for Beginners
 
-_Hello World Program_
 
 # Requirements
-[Android-Studio 3.1.3](https://developer.android.com/studio/)
+[![Android-Studio 3.1.3](https://img.shields.io/badge/Android--Studio-3.1.3-brightgreen.svg)](https://developer.android.com/studio/)
 
 ## Resources
 [Android Docs](https://developer.android.com/training/basics/firstapp/)
