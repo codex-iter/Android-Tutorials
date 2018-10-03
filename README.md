@@ -1,4 +1,4 @@
-# Android-Tutorials  ![Codex](https://img.shields.io/badge/Codex-2.0-blue.svg?longCache=true&style=flat-square)
+# Android-Tutorials  ![Codex](https://img.shields.io/badge/codex-ITER-blue.svg?longCache=true&style=flat-square&colorB=00ccff&logo=github)
 Android Tutorials for Beginners
 
 
