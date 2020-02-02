@@ -3,7 +3,7 @@ Android Tutorials for Beginners
 
 
 # Requirements
-[![Android-Studio 3.1.3](https://img.shields.io/badge/Android--Studio-3.1.3-brightgreen.svg)](https://developer.android.com/studio/)
+[![Android-Studio 3.5.3](https://img.shields.io/badge/Android--Studio-3.5.3-brightgreen.svg)](https://developer.android.com/studio/)
 
 ## Resources
 [Android Docs](https://developer.android.com/training/basics/firstapp/)
